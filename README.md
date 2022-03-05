@@ -7,7 +7,7 @@ I am a junior-python developer. I will be glab to find here friend, like-minded 
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:kalmah23@gmail.com'>kalmah23@gmail.com@gmail.com</a>
-   ![icon](https://user-images.githubusercontent.com/81589091/156874576-ebacf264-d55d-4a3b-a387-12d7674fa3b2.png): <a href='https://hh.ru/resume/d7004044ff09bc7cc80039ed1f38646d596769'>HeadHunter</a>
+   <a href='https://hh.ru/resume/d7004044ff09bc7cc80039ed1f38646d596769'>HeadHunter</a>
 
 </p>
 
