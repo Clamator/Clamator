@@ -18,7 +18,7 @@ Python, PostgeSQL, GIT, Asincio
 android-dev, animation on Unity, AI
 
 ### Key points
-I'm just begining my way as a programmer, but I have many project to do. Trying to explore smth for me everyday. 
+I'm just begining my way as a programmer, but I have many project to do. Trying to explore smth new for me everyday. 
 
 <!--
 **Clamator/Clamator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
