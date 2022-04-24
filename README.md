@@ -12,10 +12,10 @@ I am a junior-python developer. I will be glab to find here friend, like-minded 
 </p>
 
 ### My technical stack
-Python, PostgeSQL, GIT, Asincio
+Python, PostgeSQL, GIT, Asincio, MPL
 
 ### Gonna explore/study
-android-dev, animation on Unity, AI
+pandas, numpy, spark
 
 ### Key points
 I'm just begining my way as a programmer, but I have many project to do. Trying to explore smth new for me everyday. 
