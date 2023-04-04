@@ -12,13 +12,14 @@ I am a junior-python developer. I will be glab to find here friend, like-minded 
 </p>
 
 ### My technical stack
-Python, PostgeSQL, GIT, Asincio, MPL
+1. HTML, CSS, SCSS,
+2. Javascript,
+3. Vue.js 3, vue-router, vuex, 
+4. Storybook, 
+5. Python and several python libraries, 
+6. GIT
+7. Python
 
-### Gonna explore/study
-pandas, numpy, spark
-
-### Key points
-I'm just begining my way as a programmer, but I have many project to do. Trying to explore smth new for me everyday. 
 
 <!--
 **Clamator/Clamator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
