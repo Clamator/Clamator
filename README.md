@@ -19,6 +19,16 @@ I am a junior frontend developer. I will be glab to find here friend, like-minde
 5. Python and several python libraries, 
 6. GIT
 
+### My stats
+   <p align="center" style='margin: 8px 4px;'>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clamator&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="Clamator" />
+    </p>
+    <p align="center" style='margin: 8px 4px;'>
+        <img src="https://github-readme-stats.vercel.app/api?username=Clamator&show_icons=true&locale=en&theme=gruvbox" alt="Clamator" />
+    </p>
+    <p align="center" style='margin: 8px 4px;'>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clamator&theme=gruvbox" alt="Clamator" />
+    </p>
 
 
 <!--
