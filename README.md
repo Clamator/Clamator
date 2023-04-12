@@ -18,7 +18,7 @@ I am a junior-python developer. I will be glab to find here friend, like-minded 
 4. Storybook, 
 5. Python and several python libraries, 
 6. GIT
-7. Python
+
 
 
 <!--
