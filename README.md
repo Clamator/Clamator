@@ -6,7 +6,7 @@ I am a junior-python developer. I will be glab to find here friend, like-minded 
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:kalmah23@gmail.com'>kalmah23@gmail.com@gmail.com</a>
+   📫 How to reach me: <a href='mailto:kalmah23@gmail.com'>kalmah23@gmail.com</a>
    <a href='https://hh.ru/resume/d7004044ff09bc7cc80039ed1f38646d596769'>HeadHunter</a>
 
 </p>
