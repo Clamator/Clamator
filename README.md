@@ -1,5 +1,5 @@
 ### Hi, my name is Alex 👋
-I am a junior frontend developer. I will be glab to find here friend, like-minded people and maybe employer
+I am a frontend developer. I will be glab to find here friend, like-minded people and maybe employer
 
 <p align='center'>
    <a href="https://t.me/Clamator">
